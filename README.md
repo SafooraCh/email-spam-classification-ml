@@ -126,3 +126,7 @@ Install required libraries:
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+
+## Author
+
+SAFOORA CH
